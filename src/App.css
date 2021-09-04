@@ -1,0 +1,12 @@
+.App {
+  font-size: calc(10px + 2vmin);
+  text-align: center;
+  color: white;
+
+  background-color: #282c34;
+
+  height: 100vh;
+  width: 100vw;
+
+  overflow: hidden;
+}
